@@ -1,4 +1,6 @@
 ergogen/output/*
-kicad/board/board.kicad_prl
-kicad/board/fp-info-cache
-kicad/board/board-backups/*
+kicad/*/*.kicad_prl
+kicad/*/fp-info-cache
+kicad/*/*-backups/*
+kicad/*/*gerber*
+
